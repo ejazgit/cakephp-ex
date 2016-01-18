@@ -1,5 +1,5 @@
 <?php
-/**
+/**Ejaz Waquif
  * Requests collector.
  *
  *  This file collects requests if:
